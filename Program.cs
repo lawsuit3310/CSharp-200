@@ -16,6 +16,7 @@ namespace C_____200제.예제_풀이
             Ex009 ex9 = new Ex009();
             Ex010 ex10 = new Ex010();
             Ex011 ex11= new Ex011();
+            Ex012 ex12= new Ex012();
 
             //ex1.Run();
             //ex3.Run();
@@ -26,7 +27,8 @@ namespace C_____200제.예제_풀이
             //ex8.Run();
             //ex9.Run();
             //ex10.Run();
-            ex11.Run();
+            //ex11.Run();
+            ex12.Run();
         }
     }
 }

@@ -22,6 +22,7 @@ namespace C_____200제.예제_풀이
             Ex015 ex15 = new Ex015();
             Ex016 ex16 = new Ex016();
             Ex017 ex17 = new Ex017();
+            Ex018 ex18 = new Ex018();
 
             //ex1.Run();
             //ex3.Run();
@@ -37,7 +38,9 @@ namespace C_____200제.예제_풀이
             //ex13.Run();
             //ex14.Run();
             //ex15.Run();
-            ex17.Run();
+            //ex16.Run();
+            //ex17.Run();
+            ex18.Run();
         }
     }
 }
